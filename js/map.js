@@ -23,13 +23,13 @@ var infowindow = null;
 		'<h1 class="infoWindowHeader">James Hall</h1>'+
 		'<p>[more information needed]</p>',
 		'<h1 class="infoWindowHeader">Landmark</h1>'+
-		'<p>Pre-Conference Informal Gathering</p>',
+		'<p>Pre-Conference Informal Gathering<br><strong>Address:</strong> 1 Mullica Hill Rd, Glassboro, NJ 08028 (pending configuration)</p>',
 		'<h1 class="infoWindowHeader">Enterprise</h1>'+
-		'<p>Contributed Papers</p>',
+		'<p>Contributed Papers<br><strong>Address:</strong> 225 Rowan Blvd, Glassboro, NJ 08028 (pending configuration)</p>',
 		'<h1 class="infoWindowHeader">Enyon Ballroom</h1>'+
-		'<p>Plenary, Market Place, Student Center (Shuttles to Fossil Dig)</p>',
+		'<p>Plenary, Marketplace, Student Center (Shuttles to Fossil Dig)<br><strong>Address:</strong> 201 Mullica Hill Rd, Glassboro, NJ 08028 (pending configuration)</p>',
 		'<h1 class="infoWindowHeader">Fossil Dig</h1>'+
-		'<p>Dig begins at 9:30am on Monday, June 20th</p>'
+		'<p>Dig begins at 9:30am on Monday, June 20th<br>[address needed] (pending configuration)</p>'
 	];
 
 	var locations = [
