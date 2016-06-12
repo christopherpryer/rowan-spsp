@@ -33,7 +33,6 @@ var infowindow = null;
 	];
 
 	var locations = [
-		['James Hall', 39.711463, -75.119262, 1, infoWindowContent[0]],
 		['Landmark', 39.706849, -75.110657, 2, infoWindowContent[1]],
 		['Enterprise', 39.7055703, -75.1135144, 3, infoWindowContent[2]],
 		['Enyon Ballroom', 39.708455, -75.118237, 4, infoWindowContent[3]],
